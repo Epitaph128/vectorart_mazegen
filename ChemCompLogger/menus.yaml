@@ -1,0 +1,46 @@
+---
+art:
+- artNo: 0
+  text: >
+    :--:--:--:--:--:--:
+pages:
+# universal intro page
+- pageName: main_menu
+  textOpen: -= Main Menu =-
+  buttons:
+    - num: 0
+      action: generate_mazes
+      text: |
+        Generate Mazes
+    - num: 1
+      action: change_shape
+      text: |
+        Maze Shape
+        { Current: Rectangle }
+    - num: 2
+      action: add_maze_count
+      text: |
+        Unique Mazes
+        { Current: 1 }
+    - num: 3
+      action: reset_maze_count
+      text: Reset Maze Count
+    - num: 4
+      action: toggle_diagonals
+      text: |
+        Diagonal Connections
+        { False }
+    - num: 5
+      action: change_difficulty_enhancer
+      text: |
+        Difficulty Enhancer
+        { None }
+    - num: 6
+      action: change_style
+      text: |
+        Maze Style
+        { Normal }
+    - num: 7
+	  action: toggle_log_panel
+	  text: |
+	    Toggle Info Panel

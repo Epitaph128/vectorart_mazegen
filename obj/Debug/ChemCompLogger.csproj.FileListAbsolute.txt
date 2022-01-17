@@ -1,0 +1,5 @@
+C:\Users\Walte\Desktop\CommunityArtilleryBattle\obj\Debug\ChemCompLogger.csprojAssemblyReference.cache
+C:\Users\Walte\Desktop\CommunityArtilleryBattle\obj\Debug\MainWindow.g.cs
+C:\Users\Walte\Desktop\CommunityArtilleryBattle\obj\Debug\App.g.cs
+C:\Users\Walte\Desktop\CommunityArtilleryBattle\obj\Debug\ChemCompLogger_MarkupCompile.cache
+C:\Users\Walte\Desktop\CommunityArtilleryBattle\obj\Debug\ChemCompLogger_MarkupCompile.lref
